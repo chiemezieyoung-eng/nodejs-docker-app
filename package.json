@@ -1,14 +1,13 @@
-
-  "name": "nodejs-docker-app",
-  "version": "1.0.0",
-  "description": "Simple Node.js app for Docker deployment assignment",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "author": "Your Name",
-  "license": "MIT"
+{
+"name": "nodejs-docker-app",
+"version": "1.0.0",
+"description": "Simple Node.js app for Docker",
+"main": "app.js",
+"scripts" : {
+},
+"dependencies":  {
+"express":  "^4.18.2"
+},
+"author":  "Your Name",
+"license":  "MIT"
 }
